@@ -1,5 +1,7 @@
 {
 
+  "show_video_ads": "false",
+  
   "our_ads1_activation":"false",
   "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/pomnicon2.png",
   "our_ads1_link_url":"appmarket://details?id=com.huaw.escape.clown.pomni.prison",
